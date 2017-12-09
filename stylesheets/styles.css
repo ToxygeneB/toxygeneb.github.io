@@ -135,6 +135,7 @@ a:hover {
     font-size:12px;
     font-family:"Roboto Condensed", Helvetica, Arial, sans-serif;
 }
+
 .right {
     color:gray;
     background-color:#FFFFFF;
@@ -142,10 +143,15 @@ a:hover {
     font-size:100%;
     margin-top:5px;
 }
+
 .left {
     color:gray;
     background-color:#FFFFFF;
     float:left;
     font-size:90%;
     margin-top:5px;
+}
+
+.cent {
+    text-align:center;
 }

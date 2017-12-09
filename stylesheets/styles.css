@@ -1,0 +1,151 @@
+body {
+    font-family:"Roboto Condensed", Helvetica, Arial, sans-serif;
+    font-size:14px;
+    font-weight: 300;
+    color:#666666;
+    cursor:default;
+    background-color:#FFFFFF;
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+    text-decoration: none;
+}
+
+html {
+    height:100%;
+    margin-bottom:1px;
+}
+
+#container {
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: left;
+    background-color: #FFFFFF;
+}
+
+#header {
+    width:100%;
+    padding-top:15px;
+}
+
+.spacer {
+    width:100%;
+    height:15px;
+}
+
+.sub {
+    font-size:20px;
+    color:#0084B4;
+    font-family:"Roboto Condensed", Helvetica, Arial, sans-serif;
+    font-weight:400;
+    background-color:#FFFFFF;
+    margin-left:50px;
+}
+
+hr {
+    border:0px;
+    color:#CCCCCC;
+    background-color:#CDCDCD;
+    height: 1px;
+    width: 100%;
+    text-align: left;
+}
+
+h1 {
+    font-size:28px;
+    color:#00557F;
+    background-color:#FFFFFF;
+    font-family:"Roboto Condensed", Helvetica, Arial, sans-serif;
+    font-weight:800;
+    margin-left: 5px;
+}
+
+h2 {
+    font-size:22px;
+    color:#0084B4;
+    font-family:"Roboto Condensed", Helvetica, Arial, sans-serif;
+    font-weight:600;
+    background-color:#FFFFFF;
+    margin-left: 5px;
+}
+
+h3 {
+    color:#0084B4;
+    font-size:18px;
+    text-align:left;
+    font-weight:500;
+    padding:5px;
+    margin-top:5px;
+    margin-left: 5px;
+}
+
+ul {
+    padding: 5px;
+    margin:0px 50px 20px;
+}
+
+.key {
+    font-family:"Source Code Pro", "Lucida Console", Terminal, fixed;
+    color:#333333;
+    padding:8px 15px;
+    background: #f8f8f8;  
+    border-radius:5px;
+    border:1px solid #e5e5e5;
+    font-size:90%;
+    text-align: center;
+}
+
+p {
+    background-color:#FFFFFF;
+    line-height:20px;
+    padding:5px;
+}
+
+a {
+    color:#5398EC;
+    background-color:#FFFFFF;
+    text-decoration:none;
+}
+
+a:hover {
+    color:#2196F3;
+    background-color:#FFFFFF;
+    text-decoration:underline;
+}
+
+#left {
+    float:left;
+    width:240px;
+    background-color:#FFFFFF;
+    font-size:90%;
+}
+
+#main {
+    margin: 0px 5px 5px 260px;
+    padding: 0px 15px 15px 15px;
+    border-left: 1px solid silver;
+    font-size:100%;
+}
+
+#footer {
+    clear:both;
+    font-size:12px;
+    font-family:"Roboto Condensed", Helvetica, Arial, sans-serif;
+}
+.right {
+    color:gray;
+    background-color:#FFFFFF;
+    float:right;
+    font-size:100%;
+    margin-top:5px;
+}
+.left {
+    color:gray;
+    background-color:#FFFFFF;
+    float:left;
+    font-size:90%;
+    margin-top:5px;
+}

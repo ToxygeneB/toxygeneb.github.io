@@ -1,0 +1,74 @@
+==================================================================
+https://keybase.io/toxygeneb
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://toxygeneb.github.io
+  * I am toxygeneb (https://keybase.io/toxygeneb) on keybase.
+  * I have a public key with fingerprint F1F0 D92A B094 F386 1669  03BE 19E1 BA7C 6EE5 38A9
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010139c31a37ef835804d9a618e5671a78a59dd58f384b728b69414d08c19cba4fb20a",
+      "fingerprint": "f1f0d92ab094f386166903be19e1ba7c6ee538a9",
+      "host": "keybase.io",
+      "key_id": "19e1ba7c6ee538a9",
+      "kid": "010139c31a37ef835804d9a618e5671a78a59dd58f384b728b69414d08c19cba4fb20a",
+      "uid": "f0bf9d178bf3ede59696e18ab1156519",
+      "username": "toxygeneb"
+    },
+    "service": {
+      "hostname": "toxygeneb.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1512610936,
+  "expire_in": 157680000,
+  "prev": "9ff58414a0fbbae71885d166291aca76d6d9171186952b45a48b720457168e83",
+  "seqno": 59,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.76
+Comment: https://keybase.io/crypto
+
+yMNGAnicrVJ9UBRlHD5SnKAsCaOkD7mFjCk+9r293X33amIUcwwxIkONjGP39t1j
+49iF2z2448PkQx1ImzCaDKMshWjCGkwgUSIQ+QgTUUIGlcbGHBGFg0ASwWmPmv5o
++rP3n3fe3zzP83ue3/trW7xA5+vVv7TpRtTAgWiv7pb9Dl1i6MfOHIyTeRdmysFS
+0fyFbDxSVHOqyGMmDAc4IBgLAViCRgIkSIgbeYalAEQkRQOWhizJ8DwJBQIaOdoA
+OYoxAiOPQwtgLBxrFDgDzmJhmCBKVmRPt4uSqskKQMB5xsByOGPUmBSgKAYnOAQY
+BDiWtlAIkQRkGY2YIisehmaOYxUUIcpaTXuY5+39B/5/9u2YlxNwTmB4QENOIBCP
+SIZiKAQgywFAUiTw9HUoyC6xaUhDq7LTZUUS4rC8MEwrZ4oW5JmsJ8q/IRFWUU1x
+cH/lSrfLqmyRbRogRVXTFZNHQHWlexhZiDP/rWXmRInX5qkxMpFdEWUJMwENaVFF
+jzgggYECOENQYRhypot2ZBY9CJKmIK4dTx+UqUkygkBCLTWLCxzHIhpASPLaVxgY
+wFpYmuIpngE0AJBiSANnJFkj1EaFG0kaUBBBAvOky5BkzEQymk/WqmkqolViVYcd
+YXmtLVsW6rx8dYu87/Esms7XZ8k/65e7RFcUqk4r5YWPHf4hfmS0MtZdlvbGtQV9
+L74nx2w8HlrRd+jG6ECL/bkAtKGK+ORY6N2fnEVPViQ9IgxsD5z8TKgvZq63nrzc
+5F9wZ7hktLjP6nPqwKO9RAs3fCi1cE/SR7sGA4N3+LxeQFw4Ra5oZXcHwSdeuO/8
+4hrFsjRBaTOs8QsuRas2DdwvqX66oNlzfoe/7EoO2/xSYuRsW0d23dRT6Nepi9tW
+Mgfzc3I7Yz6fcZaxxcmvjq9SQqTz7nwyL+Zqtn/1yPY8h1rmtd/hlCtHem2Ejv60
+A7avf+jMzMUdq2+t6X7Qzoq+GwPwRKncFnf2uH9+VJxfwl4YWNus7xm0wbHToQXL
+fp50VIfo/7DFOl9u3Lu7uDLypqtDH5xYWiLX7yutWj53RX+2l2wYJ6alrbfym58u
+6wq/Xps8GFC7sG5fD//F0aqKoecPRndmE27Xnnvz3vnlbX38IDXxSsK7a6e/mth5
+em3WNwM3I8vH4k1jQw9/+ED/0IqVcUHxtteq0+YaGy6HmL5LC+SEqazHM9Z9G1k/
+Gb6sPdzdfKFzc0/h+8tdJRPr3NHX6tZ7n/jauPrN369eajwaVT977tkNP37QVDMc
+MHPFTXbHZtRtaouZwbcY4o7kjl4qMocYClrbT96tyfSbo49EzETfnu06g20FeMhb
+204sGu//vsU7+ZljDXeSyN923f4T3DnN6w==
+=3KaJ
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/toxygeneb
+
+==================================================================

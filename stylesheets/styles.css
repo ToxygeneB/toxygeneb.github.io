@@ -119,14 +119,15 @@ p {
 }
 
 a {
-  color:#3378CC;
+  color:#2368BC;
   background-color:#FFFFFF;
   text-decoration:none;
+  font-weight:500;
 }
 
 a:hover {
   color:#2196F3;
-  background-color:CCCCCC;
+  background-color:#F8F8F8;
 }
 
 #footer {
